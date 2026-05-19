@@ -9,20 +9,32 @@ The repository includes 8 video files (`.mp4`), named according to the following
 ### Condition A: Drumming (Discrete Action)
 
 | File Name | Action Type | Mapping Clarity | Sound Type | Key Characteristics |
+
 | :--- | :---: | :---: | :--- |
+
 | **`output_with_sound_A_1_1.mp4`** | Drumming | Strong | Instrument Sound | 
+
 | **`output_with_sound_A_1_2.mp4`** | Drumming | Weak | Instrument Sound |
+
 | **`output_with_sound_A_1_3.mp4`** | Drumming | Weak | Environmental Sound | 
+
 | **`output_with_sound_A_1_4.mp4`** | Drumming | Strong | Environmental Sound|
+
 
 ### Condition B: Sliding (Continuous Action)
 
 | File Name | Action Type | Mapping Clarity | Sound Type | Key Characteristics |
+
 | :--- | :---: | :---: | :---: | 
+
 | **`output_with_sound_B_1_1.mp4`** | Sliding | |Strong | Instrument Sound | 
+
 | **`output_with_sound_B_1_2.mp4`** | Sliding | |Weak | Environmental Sound | 
+
 | **`output_with_sound_B_1_3.mp4`** | Sliding | |Weak | Instrument Sound | 
+
 | **`output_with_sound_B_1_4.mp4`** | Sliding | Strong | Environmental Sound|
+
 
 ---
 
