@@ -1,4 +1,4 @@
-# The Illusion of Instrument Presence: How Gesture--Sound Mapping Shapes Audience Perception in Digital Musical Instrument Performances
+# How Gesture–Sound Mapping Shapes Audience Perception in Digital Musical Instrument Performances
 
 This repository contains the experimental materials, system implementation, stimuli, and analysis code for the study investigating the illusion of instrument presence in digital musical instrument performances.
 
